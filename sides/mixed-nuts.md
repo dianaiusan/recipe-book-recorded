@@ -5,6 +5,7 @@
 - almonds
 - chashew nuts
 - walnuts
+- seasoning like salt and chilli flakes
 
 ## Instrctions
 
